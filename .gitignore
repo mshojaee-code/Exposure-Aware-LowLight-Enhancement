@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+*.pth
+outputs/*.pth
+.DS_Store
+.idea/
+data/
+*.onnx
+weights/
+results/
